@@ -3,7 +3,7 @@
 <h1 align='center'>Hi there 👋, I'm Brian 😎🚀</h1>
 
 <p align='center'>
-Fullstack software developer, I have take courses in Platzi, Google and Microsoft, I know technologies like HTML, CSS, Java Script, React, Java 🔥.
+Fullstack software developer, I've take courses in Platzi, Google and Microsoft, I know technologies like HTML, CSS, Java Script, React, Java 🔥.
 </p>
 
 <p align='center'>
