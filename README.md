@@ -1,37 +1,9 @@
 ![Header GitHub briandv198](https://cdn.discordapp.com/attachments/1217316505147015179/1217316591734227024/Untitled-2.jpg?ex=6603956c&is=65f1206c&hm=79f832c2c49d5661c2eb9ccbc92ac457b6788b0a6606379bf604d7fd67b05a22&)
 
-<h1 align='center'>Hi there 👋, I'm Brian 😎🚀</h1>
+<h1 align='center'>Hola 👋, Soy Brian 😎🚀</h1>
 
 <p align='center'>
-Fullstack software developer, I've take courses in Platzi, Google and Microsoft, I know technologies like HTML, CSS, Java Script, React, Java 🔥.
-</p>
-
-<p align='center'>
-Also, I'm conten creator in the next social networks 🤗.
-</p>
-
-<p align='center'>
-
-  <a href="https://www.tiktok.com/@briandv198">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TikTok&color=000000&logo=TikTok&logoColor=FFFFFF&label=" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.youtube.com/channel/UCgivlHFm7fBG9O04jEi-9CA">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://twitter.com/briandv198">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/briandv198">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:briandv198@gmail.com?subject=Hola%20Brian">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
-  </a>
-  
+Soy un desarrollador Fullstack con especialización en frontend, enfocado en el diseño y desarrollo de interfaces. Mi enfoque principal es crear interfaces intuitivas y fácilmente mantenibles, priorizando el diseño mobile-first y asegurando la compatibilidad responsive. Tengo experiencia en tecnologías como React, Next.js, Astro, Tailwind CSS, Bootstrap y Syncfusion, entre otras. 🔥.
 </p>
 
 <hr>
